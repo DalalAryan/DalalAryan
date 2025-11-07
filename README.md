@@ -1,4 +1,4 @@
-# Hello! I'm Aru!
+# 👋 Hello! I'm Aru!
 
 I'm an Applied Mathematics & Computer Science Engineering undergraduate at UCLA exploring Mathematical Machine Learning, Computer Vision and Reinforcement Learning. I am passionate about AI Safety, Neural Network Verification for Safety-Critical Applications (such as Biomedical Imaging & Autonomous Driving) and Problem-Solving. 
 
