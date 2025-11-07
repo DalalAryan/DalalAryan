@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hello! I'm Aru!
+
+I'm an Applied Mathematics & Computer Science Engineering undergraduate at UCLA exploring Mathematical Machine Learning, Computer Vision and Reinforcement Learning. I am passionate about AI Safety, Neural Network Verification for Safety-Critical Applications (such as Biomedical Imaging & Autonomous Driving) and Problem-Solving. 
+
+## Academic Interests
+- **Mathematical Machine Learning** - Quantification and Verification of ML/AI Systems for Safety-Critical Applications
+- **Reinforcement Learning** - Tokenization & Sparse-reward Reinforcement Learning with Markov Decision Processes
+- **Computer Vision** - Exploration of Visual Machine Perception through Machine Learning for Healthcare, Autonomous Vehicles and Cybersecurity
+- **Speech & Image Processing Systems** - Utilizing Signal Processing Techniques and Deep Learning Architecture to develop advanced Speech and Image Processing Systems for Applied Sciences. 
+
+## Technical Skills
+- **Languages:** Python, C/C++, R, MATLAB, SQL
+- **ML/AI:** PyTorch, Keras, TensorFlow, Scikit-Learn, OpenCV, OpenML
+- **Data Analysis:** NumPy, SciPy, Matplotlib, Seaborn, Pandas, Mosaic
+- **Development Tools:** Git, Linux, Vim, Visual Studio Code, ROS2, Wireshark
+- **Hardware:** Raspberry Pi
+
+## Contact
+- [Website](dalalaryan.github.io)
+- [LinkedIn](www.linkedin.com/in/dalalaryan/)
+- [Email](mailto:aryandalal@ucla.edu)
 
 <!--
 **DalalAryan/DalalAryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
