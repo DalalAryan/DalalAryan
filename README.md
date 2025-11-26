@@ -2,10 +2,10 @@
 
 I'm an Applied Mathematics & Computer Science Engineering undergraduate at UCLA exploring Mathematical Machine Learning, Computer Vision and Reinforcement Learning. I am passionate about AI Safety, Neural Network Verification for Safety-Critical Applications (such as Biomedical Imaging & Autonomous Driving) and Problem-Solving. 
 
-I am an Undergraduate Research Assistant at the [UCLA Mathematical Machine Learning Group](https://www.math.ucla.edu/~montufar/#People) advised by [Guido Montúfar](https://www.math.ucla.edu/~montufar/#People) and [Yulia Alexandr](https://yuliaalexandr.github.io). 
+<!--I am an Undergraduate Research Assistant at the [UCLA Mathematical Machine Learning Group](https://www.math.ucla.edu/~montufar/#People) advised by [Guido Montúfar](https://www.math.ucla.edu/~montufar/#People) and [Yulia Alexandr](https://yuliaalexandr.github.io). -->
 
 ## Academic Interests
-- **Mathematical Machine Learning** - Quantification and Verification of ML/AI Systems for Safety-Critical Applications
+- **Mathematical Machine Learning** - Neural Network Verification
 - **Reinforcement Learning** - Tokenization & Sparse-reward Reinforcement Learning with Markov Decision Processes
 - **Computer Vision** - Exploration of Visual Machine Perception through Machine Learning for Healthcare, Autonomous Vehicles and Cybersecurity
 - **Speech & Image Processing Systems** - Utilizing Signal Processing Techniques and Deep Learning Architecture to develop advanced Speech and Image Processing Systems for Applied Sciences. 
