@@ -5,14 +5,14 @@ I'm an Applied Mathematics & Computer Science Engineering undergraduate at UCLA 
 <!--I am an Undergraduate Research Assistant at the [UCLA Mathematical Machine Learning Group](https://www.math.ucla.edu/~montufar/#People) advised by [Guido Montúfar](https://www.math.ucla.edu/~montufar/#People) and [Yulia Alexandr](https://yuliaalexandr.github.io). -->
 
 ## Academic Interests
-- **Mathematical Machine Learning** - Neural Network Verification
+- **Mathematical Machine Learning** - Inference Scaling Laws in Transformers, Neural Network Verification
 - **Reinforcement Learning** - Tokenization & Sparse-reward Reinforcement Learning with Markov Decision Processes
 - **Computer Vision** - Exploration of Visual Machine Perception through Machine Learning for Healthcare, Autonomous Vehicles and Cybersecurity
 - **Speech & Image Processing Systems** - Utilizing Signal Processing Techniques and Deep Learning Architecture to develop advanced Speech and Image Processing Systems for Applied Sciences. 
 
 ## Technical Skills
-- **Languages:** Python, C/C++, R, MATLAB, SQL
-- **ML/AI:** PyTorch, Keras, TensorFlow, Scikit-Learn, OpenCV, OpenML
+- **Languages:** Python, C/C++, R, MATLAB, Assembly
+- **ML/AI:** PyTorch, Scikit-Learn, OpenCV, HuggingFace
 - **Data Analysis:** NumPy, SciPy, Matplotlib, Seaborn, Pandas, Mosaic
 - **Development Tools:** Git, Linux, Vim, Visual Studio Code, ROS2, Wireshark
 - **Hardware:** Raspberry Pi
